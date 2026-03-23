@@ -62,3 +62,7 @@ Variables:
 
 •	maximum_sustained_wind_speed_knots: TC intensity (knots)
 
+4) Vile_et_al_plots.ipynb
+
+Jupyter Notebook containing the code used to generate figures 3 and 4 of the manuscript.
+
