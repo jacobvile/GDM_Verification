@@ -1,6 +1,9 @@
 Analysis of the Google DeepMind (GDM) Tropical Cyclone Intensity Forecasts for the 2025 Atlantic Hurricane Season
+
 Vile et al.
+
 Description of Data Files
+
 1)	GDM_data_2025.csv
 Google DeepMind ensemble model output for 2025 Atlantic tropical cyclones (TCs). See manuscript for processing and filtering steps.
 Variables:
